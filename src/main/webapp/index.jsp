@@ -30,7 +30,7 @@
 <body>
     <div class="box">
         <h1>🚀 Jenkins + Maven + Tomcat Demo</h1>
-        <p class="success">  Test Case-2: Docker Deployment Successful!</p>
+        <p class="success"> Test Case-3: Docker Deployment Successful!</p>
 
         <p>
             This application was built using <b>Maven</b><br/>
